@@ -1,0 +1,258 @@
+0005.367 (0) Opened log file at time: Tue, 11 Jun 2024 06:19:03 +0000 on http://localhost/portfolio
+0007.221 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.3 WP: 6.5.4 PHP: 8.1.6 (apache2handler, Windows NT DESKTOP-JAAGRFB 10.0 build 19045 (Windows 10) AMD64) MySQL: 10.4.24-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.6 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 66.6M | 72M) multisite: N openssl: OpenSSL 1.1.1n  15 Mar 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0008.272 (0) Free space on disk containing Updraft's temporary directory: 22375.9 MB
+0012.997 (0) Tasks: Backup files: 1 (schedule: every2hours) Backup DB:  (schedule: everyhour)
+0014.095 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 
+0017.407 (0) Semaphore (f, wp_options) being initialised
+0019.143 (0) Requesting semaphore lock (f) (apparently not via scheduler)
+0020.945 (0) Set semaphore last lock (f) time to 2024-06-11 06:19:23
+0021.256 (0) Semaphore lock (f) complete
+0021.901 (0) Backup run: resumption=0, nonce=a9be85753dff, file_nonce=a9be85753dff begun at=1718086742 (22s ago), job type=backup
+0022.565 (0) Scheduling a resumption (1) after 300 seconds (1718087065) in case this run gets aborted
+0025.642 (0) Checking if we have a zip executable available
+0026.179 (0) Creation of backups of directories: beginning
+0027.201 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0071.995 (0) Total entities for the zip file: 1422 directories, 5975 files (0 skipped as non-modified), 142 MB
+0073.612 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0077.712 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 100 files added (on-disk size: 251.9 KB)
+0079.869 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.3 MB, 100 (101) files added so far); re-opening (prior size: 251.9 KB)
+0102.148 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 200 files added (on-disk size: 1773.6 KB)
+0102.996 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 300 files added (on-disk size: 1773.6 KB)
+0104.077 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 400 files added (on-disk size: 1773.6 KB)
+0105.006 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (23.1 MB, 300 (401) files added so far); re-opening (prior size: 1773.6 KB)
+0206.114 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.9 MB, 65 (466) files added so far); re-opening (prior size: 6398.6 KB)
+0220.738 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 500 files added (on-disk size: 7118.5 KB)
+0223.034 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9.7 MB, 131 (597) files added so far); re-opening (prior size: 7118.5 KB)
+0249.992 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 600 files added (on-disk size: 10934.9 KB)
+0250.428 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 700 files added (on-disk size: 10934.9 KB)
+0251.548 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 800 files added (on-disk size: 10934.9 KB)
+0251.837 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 900 files added (on-disk size: 10934.9 KB)
+0252.033 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 312 (909) files added so far); re-opening (prior size: 10934.9 KB)
+0273.141 (0) The time we have been running (272.6) is approaching the resumption interval (300) - increasing resumption interval to 303
+0273.843 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 1000 files added (on-disk size: 11434.5 KB)
+0274.275 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 1100 files added (on-disk size: 11434.5 KB)
+0274.639 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 1200 files added (on-disk size: 11434.5 KB)
+0275.241 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 1300 files added (on-disk size: 11434.5 KB)
+0276.027 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 1400 files added (on-disk size: 11434.5 KB)
+0276.165 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7 MB, 492 (1401) files added so far); re-opening (prior size: 11434.5 KB)
+0358.815 (0) The time we have been running (358) is approaching the resumption interval (303) - increasing resumption interval to 389
+0359.462 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 1500 files added (on-disk size: 14537 KB)
+0359.856 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 1600 files added (on-disk size: 14537 KB)
+0360.098 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 1700 files added (on-disk size: 14537 KB)
+0360.494 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 1800 files added (on-disk size: 14537 KB)
+0360.695 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 1900 files added (on-disk size: 14537 KB)
+0361.064 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (18 MB, 500 (1901) files added so far); re-opening (prior size: 14537 KB)
+0378.256 (0) The time we have been running (378) is approaching the resumption interval (389) - increasing resumption interval to 409
+0378.619 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 2000 files added (on-disk size: 19156.2 KB)
+0379.263 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 2100 files added (on-disk size: 19156.2 KB)
+0379.533 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 2200 files added (on-disk size: 19156.2 KB)
+0379.936 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 2300 files added (on-disk size: 19156.2 KB)
+0380.441 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 2400 files added (on-disk size: 19156.2 KB)
+0381.163 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (8.5 MB, 502 (2403) files added so far); re-opening (prior size: 19156.2 KB)
+0418.657 (0) The time we have been running (418.1) is approaching the resumption interval (409) - increasing resumption interval to 449
+0423.212 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 20 (2423) files added so far); re-opening (prior size: 21066.9 KB)
+0431.263 (0) The time we have been running (430.6) is approaching the resumption interval (449) - increasing resumption interval to 461
+0432.803 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 2500 files added (on-disk size: 21111.4 KB)
+0433.882 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 2600 files added (on-disk size: 21111.4 KB)
+0434.104 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 178 (2601) files added so far); re-opening (prior size: 21111.4 KB)
+0443.470 (0) The time we have been running (443.2) is approaching the resumption interval (461) - increasing resumption interval to 474
+0444.057 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 2700 files added (on-disk size: 21322.6 KB)
+0445.090 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 2800 files added (on-disk size: 21322.6 KB)
+0446.046 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4 MB, 272 (2873) files added so far); re-opening (prior size: 21322.6 KB)
+0450.897 (0) The time we have been running (450.5) is approaching the resumption interval (474) - increasing resumption interval to 481
+0451.228 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 2900 files added (on-disk size: 22984.8 KB)
+0451.723 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 3000 files added (on-disk size: 22984.8 KB)
+0452.199 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 3100 files added (on-disk size: 22984.8 KB)
+0452.648 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 3200 files added (on-disk size: 22984.8 KB)
+0453.972 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 3300 files added (on-disk size: 22984.8 KB)
+0454.079 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (18.1 MB, 428 (3301) files added so far); re-opening (prior size: 22984.8 KB)
+0468.570 (0) The time we have been running (468.3) is approaching the resumption interval (481) - increasing resumption interval to 499
+0469.456 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 3400 files added (on-disk size: 27776.4 KB)
+0470.279 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 3500 files added (on-disk size: 27776.4 KB)
+0470.710 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 3600 files added (on-disk size: 27776.4 KB)
+0471.058 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 331 (3632) files added so far); re-opening (prior size: 27776.4 KB)
+0478.213 (0) The time we have been running (477.9) is approaching the resumption interval (499) - increasing resumption interval to 508
+0478.828 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 3700 files added (on-disk size: 28598.7 KB)
+0479.358 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 3800 files added (on-disk size: 28598.7 KB)
+0479.954 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 3900 files added (on-disk size: 28598.7 KB)
+0480.390 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 4000 files added (on-disk size: 28598.7 KB)
+0481.031 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 4100 files added (on-disk size: 28598.7 KB)
+0481.118 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (11.4 MB, 469 (4101) files added so far); re-opening (prior size: 28598.7 KB)
+0494.560 (0) The time we have been running (494.2) is approaching the resumption interval (508) - increasing resumption interval to 525
+0495.383 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 4200 files added (on-disk size: 31201.1 KB)
+0495.966 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 4300 files added (on-disk size: 31201.1 KB)
+0496.514 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 4400 files added (on-disk size: 31201.1 KB)
+0496.981 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 4500 files added (on-disk size: 31201.1 KB)
+0497.118 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.8 MB, 400 (4501) files added so far); re-opening (prior size: 31201.1 KB)
+0511.694 (0) The time we have been running (510.9) is approaching the resumption interval (525) - increasing resumption interval to 541
+0512.518 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 4600 files added (on-disk size: 35563.2 KB)
+0513.040 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 4700 files added (on-disk size: 35563.2 KB)
+0513.268 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 4800 files added (on-disk size: 35563.2 KB)
+0513.702 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 4900 files added (on-disk size: 35563.2 KB)
+0514.001 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 5000 files added (on-disk size: 35563.2 KB)
+0514.095 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.6 MB, 500 (5001) files added so far); re-opening (prior size: 35563.2 KB)
+0523.806 (0) The time we have been running (523.3) is approaching the resumption interval (541) - increasing resumption interval to 554
+0524.331 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 5100 files added (on-disk size: 36898.7 KB)
+0524.881 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 5200 files added (on-disk size: 36898.7 KB)
+0525.227 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 5300 files added (on-disk size: 36898.7 KB)
+0526.106 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 5400 files added (on-disk size: 36898.7 KB)
+0526.479 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 5500 files added (on-disk size: 36898.7 KB)
+0527.017 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 5600 files added (on-disk size: 36898.7 KB)
+0527.097 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.7 MB, 600 (5601) files added so far); re-opening (prior size: 36898.7 KB)
+0544.382 (0) The time we have been running (544) is approaching the resumption interval (554) - increasing resumption interval to 575
+0544.849 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 5700 files added (on-disk size: 38182 KB)
+0545.260 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 5800 files added (on-disk size: 38182 KB)
+0545.638 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.tmp: 5900 files added (on-disk size: 38182 KB)
+0560.216 (0) The time we have been running (559.9) is approaching the resumption interval (575) - increasing resumption interval to 590
+0560.831 (0) Creating zip file manifest (backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.list-temp.tmp)
+0561.011 (0) Successfully created zip file manifest (size: 507251)
+0562.230 (0) Created plugins zip (0) - 44184.1 KB in 534.1 s (82.7 KB/s) (sha1: 69f5e33d0d8172558a4130dbb268f6af84b1c7e5, sha256: a4886e0f848793788e87c50cd43e5edf2baefe1bb43c7d80861eab1744ef1034)
+0562.985 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0563.096 (0) No remote despatch: user chose no remote backup service
+0563.265 (0) Recording as successfully uploaded: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip
+0563.452 (0) Deleting zip manifest (backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip.list.tmp)
+0563.774 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0564.339 (0) Number of backup sets in history: 4; groups (db): 1
+0564.530 (0) Examining (for databases) backup set with group_id=0, nonce=2d42346d941a, datestamp=1718086839 (Jun 11 2024 06:20:39)
+0564.650 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0564.752 (0) Examining (for databases) backup set with group_id=0, nonce=d43216d0d076, datestamp=1718065545 (Jun 11 2024 00:25:45)
+0564.752 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0564.753 (0) Examining (for databases) backup set with group_id=0, nonce=0590f14ddf8d, datestamp=1718061947 (Jun 10 2024 23:25:47)
+0564.753 (0) Examining (for databases) backup set with group_id=0, nonce=b72495a795b1, datestamp=1718060517 (Jun 10 2024 23:01:57)
+0564.753 (0) Number of backup sets in history: 4; groups (files): 1
+0564.971 (0) Examining (for files) backup set with nonce=2d42346d941a, datestamp=1718086839 (Jun 11 2024 06:20:39)
+0564.972 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0565.141 (0) Examining (for files) backup set with nonce=d43216d0d076, datestamp=1718065545 (Jun 11 2024 00:25:45)
+0565.141 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0565.342 (0) Examining (for files) backup set with nonce=0590f14ddf8d, datestamp=1718061947 (Jun 10 2024 23:25:47)
+0565.342 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0565.505 (0) Examining (for files) backup set with nonce=b72495a795b1, datestamp=1718060517 (Jun 10 2024 23:01:57)
+0565.505 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0565.506 (0) Retain: saving new backup history (sets now: 4) and finishing retain operation
+0566.348 (0) Beginning creation of dump of themes (split every: 400 MB)
+0569.492 (0) Total entities for the zip file: 110 directories, 605 files (0 skipped as non-modified), 15.7 MB
+0569.665 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0570.086 (0) The time we have been running (569.8) is approaching the resumption interval (590) - increasing resumption interval to 600
+0570.318 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-themes.zip.tmp: 100 files added (on-disk size: 16.4 KB)
+0570.507 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-themes.zip.tmp: 200 files added (on-disk size: 16.4 KB)
+0570.712 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-themes.zip.tmp: 300 files added (on-disk size: 16.4 KB)
+0570.903 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-themes.zip.tmp: 400 files added (on-disk size: 16.4 KB)
+0571.106 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-themes.zip.tmp: 500 files added (on-disk size: 16.4 KB)
+0571.253 (0) Zip: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-themes.zip.tmp: 600 files added (on-disk size: 16.4 KB)
+0588.224 (0) The time we have been running (588) is approaching the resumption interval (600) - increasing resumption interval to 618
+0588.549 (0) Creating zip file manifest (backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-themes.zip.list-temp.tmp)
+0588.641 (0) Successfully created zip file manifest (size: 43712)
+0589.350 (0) Created themes zip (0) - 12034.4 KB in 22.5 s (535.6 KB/s) (sha1: 74807dca5c00a1c1a5e14e8623d4fc40dcfe99b7, sha256: ae1129f68f5f1801319a5f6c404c292f2c53846c15403e11ba6ecd264b478c6b)
+0589.785 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0589.886 (0) No remote despatch: user chose no remote backup service
+0589.974 (0) Recording as successfully uploaded: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-themes.zip
+0590.150 (0) Deleting zip manifest (backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-themes.zip.list.tmp)
+0590.294 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0590.479 (0) Number of backup sets in history: 4; groups (db): 1
+0590.572 (0) Examining (for databases) backup set with group_id=0, nonce=2d42346d941a, datestamp=1718086839 (Jun 11 2024 06:20:39)
+0590.653 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0590.720 (0) Examining (for databases) backup set with group_id=0, nonce=d43216d0d076, datestamp=1718065545 (Jun 11 2024 00:25:45)
+0590.720 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0590.720 (0) Examining (for databases) backup set with group_id=0, nonce=0590f14ddf8d, datestamp=1718061947 (Jun 10 2024 23:25:47)
+0590.720 (0) Examining (for databases) backup set with group_id=0, nonce=b72495a795b1, datestamp=1718060517 (Jun 10 2024 23:01:57)
+0590.720 (0) Number of backup sets in history: 4; groups (files): 1
+0590.775 (0) Examining (for files) backup set with nonce=2d42346d941a, datestamp=1718086839 (Jun 11 2024 06:20:39)
+0590.776 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0590.850 (0) Examining (for files) backup set with nonce=d43216d0d076, datestamp=1718065545 (Jun 11 2024 00:25:45)
+0590.850 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0590.851 (0) Examining (for files) backup set with nonce=0590f14ddf8d, datestamp=1718061947 (Jun 10 2024 23:25:47)
+0590.851 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0590.909 (0) Examining (for files) backup set with nonce=b72495a795b1, datestamp=1718060517 (Jun 10 2024 23:01:57)
+0590.909 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0590.910 (0) Retain: saving new backup history (sets now: 4) and finishing retain operation
+0591.261 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0591.340 (0) Looking for candidates to backup in: C:\xampp\htdocs\portfolio/wp-content/uploads
+0591.418 (0) finding files: 2024: adding to list (1)
+0591.531 (0) finding files: elementor: adding to list (2)
+0591.617 (0) finding files: essential-addons-elementor: adding to list (3)
+0591.683 (0) finding files: simply-static: adding to list (4)
+0591.753 (0) finding files: sinatra: adding to list (5)
+0591.809 (0) finding files: wpforms: adding to list (6)
+0591.865 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0592.419 (0) Total entities for the zip file: 13 directories, 68 files (0 skipped as non-modified), 13.1 MB
+0595.687 (0) The time we have been running (595.4) is approaching the resumption interval (618) - increasing resumption interval to 626
+0595.828 (0) Creating zip file manifest (backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-uploads.zip.list-temp.tmp)
+0596.012 (0) Successfully created zip file manifest (size: 3350)
+0596.665 (0) Created uploads zip (0) - 6946.8 KB in 4.6 s (1509.3 KB/s) (sha1: dac6973fa30f2e5b5c9a14664e45952a8d3778ea, sha256: 1929e9c171c724ecb1dfd564d035093f5ef46b350d5cad7f8181f70196cb141a)
+0596.865 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0596.921 (0) No remote despatch: user chose no remote backup service
+0597.161 (0) Recording as successfully uploaded: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-uploads.zip
+0597.384 (0) Deleting zip manifest (backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-uploads.zip.list.tmp)
+0597.598 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0597.678 (0) Number of backup sets in history: 4; groups (db): 1
+0597.761 (0) Examining (for databases) backup set with group_id=0, nonce=2d42346d941a, datestamp=1718086839 (Jun 11 2024 06:20:39)
+0597.828 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0597.887 (0) Examining (for databases) backup set with group_id=0, nonce=d43216d0d076, datestamp=1718065545 (Jun 11 2024 00:25:45)
+0597.887 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0597.888 (0) Examining (for databases) backup set with group_id=0, nonce=0590f14ddf8d, datestamp=1718061947 (Jun 10 2024 23:25:47)
+0597.888 (0) Examining (for databases) backup set with group_id=0, nonce=b72495a795b1, datestamp=1718060517 (Jun 10 2024 23:01:57)
+0597.888 (0) Number of backup sets in history: 4; groups (files): 1
+0597.976 (0) Examining (for files) backup set with nonce=2d42346d941a, datestamp=1718086839 (Jun 11 2024 06:20:39)
+0597.976 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0598.050 (0) Examining (for files) backup set with nonce=d43216d0d076, datestamp=1718065545 (Jun 11 2024 00:25:45)
+0598.051 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0598.228 (0) Examining (for files) backup set with nonce=0590f14ddf8d, datestamp=1718061947 (Jun 10 2024 23:25:47)
+0598.228 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0598.295 (0) Examining (for files) backup set with nonce=b72495a795b1, datestamp=1718060517 (Jun 10 2024 23:01:57)
+0598.295 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0598.296 (0) Retain: saving new backup history (sets now: 4) and finishing retain operation
+0598.672 (0) Beginning creation of dump of mu-plugins (split every: 400 MB)
+0598.740 (0) Does not exist: C:\xampp\htdocs\portfolio/wp-content/mu-plugins
+0598.851 (0) There are no mu-plugins to backup. Will not raise an error.
+0598.895 (0) mu-plugins: create_zip returned an error
+0599.032 (0) Beginning backup of other directories found in the content directory (index: 0)
+0599.133 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0599.184 (0) Looking for candidates to backup in: C:\xampp\htdocs\portfolio/wp-content
+0599.355 (0) finding files: index.php: adding to list (1)
+0599.492 (0) finding files: plugins: skipping: this is the plugins directory
+0599.564 (0) finding files: themes: skipping: this is the themes directory
+0599.621 (0) finding files: updraft: skipping: this is the updraft directory
+0599.686 (0) finding files: upgrade: skipping: excluded by options
+0599.739 (0) finding files: uploads: skipping: this is the uploads directory
+0599.817 (0) finding files: wmufs-temp: adding to list (2)
+0600.040 (0) Total entities for the zip file: 1 directories, 2 files (0 skipped as non-modified), 0 MB
+0600.321 (0) The time we have been running (600.1) is approaching the resumption interval (626) - increasing resumption interval to 631
+0600.518 (0) Creating zip file manifest (backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-others.zip.list-temp.tmp)
+0600.580 (0) Successfully created zip file manifest (size: 72)
+0600.906 (0) Created others zip (0) - 0.4 KB in 1 s (0.4 KB/s) (sha1: 3d4f0bb87713e974e633c4b552e06429dfc36110, sha256: 795ff12ef5bdfbebac38ef9da8931f762ad6e106e76c89479793579e861b82d1)
+0601.110 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0601.199 (0) No remote despatch: user chose no remote backup service
+0601.255 (0) Recording as successfully uploaded: backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-others.zip
+0601.406 (0) Deleting zip manifest (backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-others.zip.list.tmp)
+0601.664 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0601.996 (0) Number of backup sets in history: 4; groups (db): 1
+0602.088 (0) Examining (for databases) backup set with group_id=0, nonce=2d42346d941a, datestamp=1718086839 (Jun 11 2024 06:20:39)
+0602.206 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0602.295 (0) Examining (for databases) backup set with group_id=0, nonce=d43216d0d076, datestamp=1718065545 (Jun 11 2024 00:25:45)
+0602.295 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0602.295 (0) Examining (for databases) backup set with group_id=0, nonce=0590f14ddf8d, datestamp=1718061947 (Jun 10 2024 23:25:47)
+0602.295 (0) Examining (for databases) backup set with group_id=0, nonce=b72495a795b1, datestamp=1718060517 (Jun 10 2024 23:01:57)
+0602.296 (0) Number of backup sets in history: 4; groups (files): 1
+0602.366 (0) Examining (for files) backup set with nonce=2d42346d941a, datestamp=1718086839 (Jun 11 2024 06:20:39)
+0602.366 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0602.395 (0) Examining (for files) backup set with nonce=d43216d0d076, datestamp=1718065545 (Jun 11 2024 00:25:45)
+0602.395 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0602.395 (0) Examining (for files) backup set with nonce=0590f14ddf8d, datestamp=1718061947 (Jun 10 2024 23:25:47)
+0602.395 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0602.483 (0) Examining (for files) backup set with nonce=b72495a795b1, datestamp=1718060517 (Jun 10 2024 23:01:57)
+0602.483 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0602.483 (0) Retain: saving new backup history (sets now: 4) and finishing retain operation
+0603.141 (0) Saving backup status to database (elements: 8)
+0603.910 (0) No database backup (wp) - not part of this run
+0604.300 (0) backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-plugins.zip: plugins: This file has already been successfully uploaded
+0604.444 (0) backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-themes.zip: themes: This file has already been successfully uploaded
+0604.544 (0) backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-uploads.zip: uploads: This file has already been successfully uploaded
+0604.722 (0) backup_2024-06-11-0619_localhost_portfolio_a9be85753dff-others.zip: others: This file has already been successfully uploaded
+0604.786 (0) Saving backup history. Total backup size: 61.7 MB
+0605.051 (0) Resume backup (a9be85753dff, 0): finish run
+0605.261 (0) There were no more files that needed uploading
+0605.417 (0) Decremented the semaphore (f) by 1
+0605.611 (0) Semaphore (f) unlocked
+0605.873 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0606.496 (0) No email will be sent - this backup set was empty.
+0606.561 (0) The backup succeeded and is now complete
